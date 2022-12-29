@@ -1,3 +1,4 @@
+
 # Introduction
 
 **Before beginning:** Read this [lab tutorial](http://pages.cs.wisc.edu/~remzi/OSTEP/lab-tutorial.pdf); it has some useful tips for programming in the C environment.
@@ -140,5 +141,3 @@ Here are some tips:
 - *Do little changes to test your understanding*. For example, make some changes to the `incr` command (not because you need to) just to see if your changes work. For example, change `incr` to act like `decr` and then see if your change does what you expect.
 
 - *Determine what you can copy to make `mult` and `div` work*. Much of the code will be similar to `incr` and `decr`. What can you re-use to make it as easy as possible to realize the new features?
-
-
